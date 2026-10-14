@@ -1,0 +1,17 @@
+key,group,dimension,segment,count,share
+Viewers|Gender|Female,Viewers,Gender,Female,48191,0.9698
+Viewers|Gender|Male,Viewers,Gender,Male,1503,0.0302
+Buyers|Gender|Female,Buyers,Gender,Female,186,0.9947
+Buyers|Gender|Male,Buyers,Gender,Male,1,0.0053
+Viewers|Age|18–24,Viewers,Age,18–24,12596,0.2597
+Viewers|Age|25–34,Viewers,Age,25–34,19831,0.4088
+Viewers|Age|35+,Viewers,Age,35+,16081,0.3315
+Buyers|Age|18–24,Buyers,Age,18–24,31,0.1649
+Buyers|Age|25–34,Buyers,Age,25–34,114,0.6064
+Buyers|Age|35+,Buyers,Age,35+,43,0.2287
+Viewers|Follower status|Existing followers,Viewers,Follower status,Existing followers,2884,0.0578
+Viewers|Follower status|New followers (this LIVE),Viewers,Follower status,New followers (this LIVE),538,0.0108
+Viewers|Follower status|Non-followers,Viewers,Follower status,Non-followers,46443,0.9314
+Buyers|Follower status|Existing followers,Buyers,Follower status,Existing followers,25,0.133
+Buyers|Follower status|New followers (this LIVE),Buyers,Follower status,New followers (this LIVE),38,0.2021
+Buyers|Follower status|Non-followers,Buyers,Follower status,Non-followers,125,0.6649
