@@ -1,36 +1,60 @@
-rank,product_id,product,category,gmv,items_sold,avg_price,customers,impressions,clicks,ctr_pct,click_to_order_pct,gmv_per_1k_impr,add_to_cart,sessions_listed,sessions_with_sales,sessions_pinned,gmv_verified_in_excel,gmv_not_in_excel
-1,1732569221009609140,Striped 2-pc set (off-shoulder top + flared pants),Womenswear,2474.98,119,20.80,94,139225,12135,8.72,0.98,17.78,1032,16,12,12,2474.98,0.00
-2,1732688248856547690,Print zip hoodie + pants streetwear set,Womenswear,1202.94,48,25.06,25,31574,1340,4.24,3.58,38.10,195,4,3,4,0.00,1202.94
-3,1732153934123733614,Oversized Y2K ribbed long open-front cardigan,Womenswear,572.58,35,16.36,20,15123,1200,7.93,2.92,37.86,225,16,4,10,572.58,0.00
-4,1732592840941867576,Slim-fit striped 2-pc lounge set,Womenswear,215.41,13,16.57,9,7152,735,10.28,1.77,30.12,67,7,3,5,215.41,0.00
-5,1729631709531967928,Leopard print zip crop top + pants set,Womenswear,192.46,8,24.06,8,16209,871,5.37,0.92,11.87,72,16,3,5,171.07,21.39
-6,1732438284135665891,Retro side-stripe colorblock wide-leg pants,Womenswear,135.61,8,16.95,5,8827,256,2.90,3.12,15.36,27,15,3,3,112.64,22.97
-7,1732627435525738999,UC seamless sculpting bodysuit shorts,Womenswear,126.51,8,15.81,7,5669,206,3.63,3.88,22.32,18,16,4,8,82.09,44.42
-8,1732569169341091879,Plus size mock 2-pc knit mini dress,Womenswear,124.12,7,17.73,7,13121,436,3.32,1.61,9.46,46,9,4,6,124.12,0.00
-9,1731833711082311995,American vintage letter print joggers,Womenswear,120.78,7,17.25,4,6099,311,5.10,2.25,19.80,33,7,2,2,120.78,0.00
-10,1732590814679175637,Slim-fit striped pajama set,Womenswear,113.29,8,14.16,6,1260,101,8.02,7.92,89.91,15,3,3,0,113.29,0.00
-11,1729519267680327084,Faux fur mid-calf winter boots,Shoes,109.91,5,21.98,4,8568,375,4.38,1.33,12.83,29,16,3,9,109.91,0.00
-12,1731462786910950225,Geometric print high-waist flare pants,Womenswear,95.22,9,10.58,8,6817,381,5.59,2.36,13.97,48,11,5,7,95.22,0.00
-13,1732397807218823249,Sporty 2-pc yoga jumpsuit set,Sports & Outdoor,79.79,4,19.95,3,9525,419,4.40,0.95,8.38,35,16,2,5,0.00,79.79
-14,1732606871045312814,Black red floral mesh plunge mini dress,Womenswear,72.98,4,18.25,2,10850,245,2.26,1.63,6.73,24,4,1,3,72.98,0.00
-15,1732526827254682580,Batwing sleeve knit cardigan,Womenswear,58.17,2,29.09,2,4721,187,3.96,1.07,12.32,19,16,2,5,24.63,33.54
-16,1732055942925750564,Long fleece-lined denim jacket,Womenswear,57.61,1,57.61,1,2049,46,2.24,2.17,28.12,3,16,1,2,57.61,0.00
-17,1732135486327395280,Low-waist bell-bottom jeans with belt,Womenswear,54.49,2,27.25,2,9207,395,4.29,0.51,5.92,18,16,2,4,54.49,0.00
-18,1732560805852320501,Fitted long-sleeve knit dress,Womenswear,47.76,4,11.94,3,12073,218,1.81,1.83,3.96,20,16,3,2,10.89,36.87
-19,1731025926353031815,Solid color skirt,Womenswear,41.48,3,13.83,2,5744,159,2.77,1.89,7.22,31,16,2,4,21.66,19.82
-20,1732111436010394127,Knee-high low-heel ruched boots,Shoes,40.67,2,20.34,2,5704,39,0.68,5.13,7.13,1,16,2,1,0.00,40.67
-21,1732364922827215026,PU leather moto crossbody bag,Luggage & Bags,39.84,3,13.28,3,2600,66,2.54,4.55,15.32,9,16,2,2,39.84,0.00
-22,1732511242212839934,Long tie-up casual coat,Womenswear,33.93,2,16.96,2,3560,81,2.28,2.47,9.53,10,15,2,4,33.93,0.00
-23,1732568145296855365,Loose striped knit cardigan coat,Womenswear,29.99,1,29.99,1,1159,38,3.28,2.63,25.88,2,16,1,1,29.99,0.00
-24,1732574948435857877,Striped 2-pc pajama set (capri),Womenswear,29.24,2,14.62,2,1956,114,5.83,1.75,14.95,12,6,2,3,29.24,0.00
-25,1731976407649063740,Unisex furry tie-dye slippers,Shoes,28.46,1,28.46,1,1028,23,2.24,4.35,27.68,3,16,1,0,28.46,0.00
-26,1731636865911395028,PU leather low-heel ruched long boots,Shoes,26.98,1,26.98,1,19930,93,0.47,1.08,1.35,4,16,1,0,26.98,0.00
-27,1732635804364018449,Y2K fitted zip-up 2-pc set (flare pants),Womenswear,24.99,1,24.99,1,21681,224,1.03,0.45,1.15,16,6,1,1,24.99,0.00
-28,1732476645113631295,One-shoulder long-sleeve sweatshirt,Womenswear,24.24,1,24.24,1,1377,50,3.63,2.00,17.60,3,16,1,0,24.24,0.00
-29,1732064114633642289,Grommet one-shoulder crop top,Womenswear,23.68,2,11.84,2,4033,105,2.60,1.90,5.87,6,16,2,1,23.68,0.00
-30,1732503203480900606,Striped knit open-front jacket set,Womenswear,22.23,1,22.23,1,1216,26,2.14,3.85,18.28,1,16,1,0,22.23,0.00
-31,1732296316590788711,Off-shoulder basic crop tee,Womenswear,21.18,3,7.06,3,1802,41,2.28,7.32,11.75,5,5,1,1,21.18,0.00
-32,1732544681230308087,Y2K striped tee + wide-leg pants set,Womenswear,19.30,1,19.30,1,950,68,7.16,1.47,20.32,2,2,1,2,19.30,0.00
-33,1729619809344393368,Lace flounce-sleeve deep V top,Womenswear,15.24,2,7.62,2,3577,115,3.21,1.74,4.26,16,11,2,2,15.24,0.00
-34,1730766600296042903,Diamond quilted top-handle crossbody bag,Luggage & Bags,12.93,1,12.93,1,367,15,4.09,6.67,35.23,1,11,1,0,0.00,12.93
-35,1732531768801792347,Asymmetric batwing cropped top,Womenswear,9.78,1,9.78,1,958,26,2.71,3.85,10.21,4,6,1,1,0.00,9.78
+product_id,product,category,gmv_total,sold_total,impr_total,clicks_total,p1_impr,p1_clicks,p1_sold,p1_gmv,p1_cart,p1_buyers,p1_listed,p1_pinned,p2_impr,p2_clicks,p2_sold,p2_gmv,p2_cart,p2_buyers,p2_listed,p2_pinned,action
+1732569221009609140,Striped 2-pc set (off-shoulder top + flared pants),Womenswear,2127.69,100,143740,12107,126752,10884,94,1986.89,909,78,10,10,16988,1223,6,140.8,97,6,9,8,Fading
+1732153934123733614,Oversized Y2K ribbed long cardigan,Womenswear,687.74,38,19712,1424,14549,1189,36,619.38,225,21,10,10,5163,235,2,68.36,21,2,9,7,Fading
+1729696808559088233,3-pc fleece-lined athleisure set,Sports & Outdoor,293.78,11,7949,383,1955,115,0,0,15,0,6,2,5994,268,11,293.78,26,6,9,4,Push now
+1732705520785330831,Leopard zip-up hooded crop top + flare pants,Womenswear,291.02,14,8169,669,0,0,0,0,0,0,0,0,8169,669,14,291.02,61,7,1,1,Push now
+1732592840941867576,Slim-fit striped 2-pc lounge set,Womenswear,267.68,16,9071,870,7152,735,13,215.41,67,9,7,5,1919,135,3,52.27,5,2,8,3,Fading
+1732135486327395280,Low-waist bell-bottom jeans,Womenswear,159.48,5,10976,611,7052,358,3,88.01,13,3,10,3,3924,253,2,71.47,24,2,9,2,Give more airtime
+1729519267680327084,Faux fur mid-calf winter boots,Shoes,143.86,6,8338,335,6550,274,5,109.91,18,4,10,8,1788,61,1,33.95,7,1,9,3,Fading
+1732588893821964818,Cross-waist contrast-trim 2-pc set,Womenswear,130.91,6,9703,206,4252,26,0,0,6,0,2,0,5451,180,6,130.91,20,5,4,2,Push now
+1732569169341091879,Plus size mock 2-pc knit mini dress,Womenswear,124.12,7,14408,452,13121,436,7,124.12,46,7,9,6,1287,16,0,0,0,0,9,1,Fading
+1731833711082311995,Vintage letter print joggers,Womenswear,120.78,7,6439,322,6099,311,7,120.78,33,4,7,2,340,11,0,0,0,0,6,0,Fading
+1732438284135665891,Retro side-stripe wide-leg pants,Womenswear,112.64,7,7625,206,6075,185,7,112.64,18,4,10,2,1550,21,0,0,0,0,9,0,Fading
+1731462786910950225,Geometric print flare pants,Womenswear,109.4,11,6721,346,5782,307,6,65.55,37,6,10,6,939,39,5,43.85,6,3,9,1,Push now
+1732688248856547690,Print zip hoodie + pants set,Womenswear,101.86,4,5002,261,0,0,0,0,0,0,0,0,5002,261,4,101.86,17,3,2,2,Push now
+1732590814679175637,Slim-fit striped pajama set,Womenswear,100.37,7,871,62,871,62,7,100.37,10,5,2,0,0,0,0,0,0,0,0,0,Fading
+1732627435525738999,Seamless sculpting bodysuit shorts,Womenswear,82.09,5,3393,124,3264,118,5,82.09,9,5,10,5,129,6,0,0,0,0,6,0,Fading
+1732606871045312814,Black red floral mesh mini dress,Womenswear,72.98,4,15421,284,10851,245,4,72.98,24,2,4,3,4570,39,0,0,0,0,9,1,Swap out
+1732055942925750564,Long fleece-lined denim jacket,Womenswear,57.61,1,1803,48,1640,44,1,57.61,3,1,10,2,163,4,0,0,1,0,6,0,Hold
+1731025926353031815,Solid color skirt,Womenswear,49.5,4,4414,71,3526,65,3,36.97,10,2,10,2,888,6,1,12.53,2,1,9,0,Hold
+1732476404541461377,2-pc long-sleeve fitness set,Sports & Outdoor,43.56,4,1445,47,0,0,0,0,0,0,0,0,1445,47,4,43.56,3,2,7,3,Push now
+1732364922827215026,PU leather moto crossbody bag,Luggage & Bags,39.84,3,2874,80,1951,55,3,39.84,9,3,10,2,923,25,0,0,1,0,9,2,Hold
+1729631709531967928,Leopard zip crop top + pants set,Womenswear,34.02,1,10136,465,6209,317,0,0,27,0,10,2,3927,148,1,34.02,8,1,9,2,Swap out
+1732511242212839934,Long tie-up casual coat,Womenswear,33.93,2,3763,83,3136,74,2,33.93,10,2,10,4,627,9,0,0,0,0,9,1,Hold
+1731761501213463211,Vintage V-neck flounce tee,Womenswear,30.9,2,4599,245,0,0,0,0,0,0,0,0,4599,245,2,30.9,16,2,9,2,Give more airtime
+1732568145296855365,Loose striped knit cardigan coat,Womenswear,29.99,1,966,32,846,32,1,29.99,2,1,10,1,120,0,0,0,0,0,6,0,Hold
+1732659627802202942,Thick plush slippers,Shoes,29.78,2,451,14,0,0,0,0,0,0,0,0,451,14,2,29.78,3,1,7,1,Hold
+1732520963486617710,Striped 3-pc lounge set,Womenswear,29.69,1,837,28,0,0,0,0,0,0,0,0,837,28,1,29.69,2,1,3,1,Give more airtime
+1732574948435857877,Striped 2-pc capri lounge set,Womenswear,29.24,2,2839,141,1956,114,2,29.24,12,2,6,3,883,27,0,0,1,0,7,2,Hold
+1732499244291035248,Striped print yoga set,Sports & Outdoor,29.24,1,2456,182,270,18,0,0,1,0,1,0,2186,164,1,29.24,15,1,3,2,Give more airtime
+1731976407649063740,Unisex furry tie-dye slippers,Shoes,28.46,1,850,25,720,21,1,28.46,3,1,10,0,130,4,0,0,0,0,6,0,Hold
+1731636865911395028,PU leather low-heel slouch boots,Shoes,26.98,1,16803,83,13680,60,1,26.98,2,1,10,0,3123,23,0,0,1,0,9,0,Swap out
+1731871976797279184,Grunge Y2K stretch jeans,Womenswear,25.76,1,3138,88,2586,54,0,0,2,0,10,1,552,34,1,25.76,2,1,2,1,Give more airtime
+1732615932622574431,Halter top + ruched long-sleeve shrug,Womenswear,25.07,2,543,25,0,0,0,0,0,0,0,0,543,25,2,25.07,1,2,4,2,Give more airtime
+1732635804364018449,Y2K fitted zip-up 2-pc set,Womenswear,24.99,1,19052,213,19052,213,1,24.99,16,1,4,1,0,0,0,0,0,0,0,0,Swap out
+1732526827254682580,Batwing sleeve knit cardigan,Womenswear,24.63,1,3169,94,2637,84,1,24.63,7,1,10,3,532,10,0,0,0,0,9,0,Swap out
+1732476645113631295,One-shoulder sweatshirt,Womenswear,24.24,1,1101,32,961,30,1,24.24,3,1,10,0,140,2,0,0,0,0,6,0,Hold
+1732064114633642289,Grommet one-shoulder crop top,Womenswear,23.68,2,3190,96,2838,89,2,23.68,6,2,10,1,352,7,0,0,0,0,6,0,Hold
+1732503203480900606,Striped knit open-front jacket set,Womenswear,22.23,1,1038,20,974,20,1,22.23,1,1,10,0,64,0,0,0,0,0,2,0,Hold
+1732296316590788711,Off-shoulder basic crop tee,Womenswear,21.18,3,2267,49,1802,41,3,21.18,5,3,5,1,465,8,0,0,0,0,6,0,Hold
+1732544681230308087,Y2K striped tee + wide-leg set,Womenswear,19.3,1,950,68,950,68,1,19.3,2,1,2,2,0,0,0,0,0,0,0,0,Hold
+1729619809344393368,Lace flounce-sleeve V-neck top,Womenswear,15.24,2,2836,77,2522,70,2,15.24,12,2,10,1,314,7,0,0,0,0,6,0,Hold
+1732560805852320501,Fitted long-sleeve knit dress,Womenswear,10.89,1,11532,132,9370,107,1,10.89,8,1,10,1,2162,25,0,0,3,0,9,2,Swap out
+1732541831699140741,Wrap-front V-neck tee,Womenswear,7.68,1,3860,24,3009,13,0,0,1,0,10,0,851,11,1,7.68,0,1,9,0,Swap out
+1731711000351380046,Zebra print long-sleeve top,Womenswear,4.76,1,5069,99,3672,81,0,0,9,0,10,1,1397,18,1,4.76,3,1,9,0,Swap out
+1732673705944584495,Sporty one-piece jumpsuit,Sports & Outdoor,0.01,1,985,31,0,0,0,0,0,0,0,0,985,31,1,0.01,1,1,4,1,Hold
+1732557262299173842,Asymmetric tie-dye 2-pc set,Womenswear,0.0,0,5125,43,4809,40,0,0,0,0,10,0,316,3,0,0,0,0,6,0,Swap out
+1732063267809301458,Gradient ombre long-sleeve dress,Womenswear,0.0,0,7432,39,6349,26,0,0,2,0,10,0,1083,13,0,0,1,0,9,0,Swap out
+1732532285796291317,Faux suede pleated mini skirt,Womenswear,0.0,0,6846,42,4963,32,0,0,3,0,10,0,1883,10,0,0,0,0,9,1,Swap out
+1732415467552674641,Faux leather corset top,Womenswear,0.0,0,5185,54,3289,40,0,0,0,0,10,0,1896,14,0,0,0,0,9,0,Swap out
+1732057853119795352,Long-sleeve lace evening dress,Womenswear,0.0,0,7476,105,6612,99,0,0,5,0,10,1,864,6,0,0,0,0,6,1,Swap out
+1732180721823158836,Slingback stiletto heels,Shoes,0.0,0,3601,35,3056,28,0,0,5,0,10,0,545,7,0,0,2,0,5,0,Swap out
+1732532986487345397,Striped mock-neck knit midi dress,Womenswear,0.0,0,3673,10,3409,8,0,0,0,0,10,0,264,2,0,0,0,0,6,0,Swap out
+1732203907901001961,Pilates cutout flare romper,Sports & Outdoor,0.0,0,3116,39,3116,39,0,0,1,0,5,1,0,0,0,0,0,0,0,0,Swap out
+1732514733202838263,Polar fleece zip jacket,Womenswear,0.0,0,4670,128,3911,114,0,0,2,0,10,2,759,14,0,0,0,0,8,2,Swap out
+1732111436010394127,Knee-high ruched low-heel boots,Shoes,0.0,0,4264,29,4017,24,0,0,1,0,10,0,247,5,0,0,0,0,6,0,Swap out
+1732547769275355189,Thick-sole warm winter boots,Shoes,0.0,0,4990,50,4374,39,0,0,1,0,10,2,616,11,0,0,3,0,9,1,Swap out
+1732397807218823249,Sporty 2-pc yoga jumpsuit set,Sports & Outdoor,0.0,0,4737,195,4661,195,0,0,13,0,10,2,76,0,0,0,0,0,3,0,Swap out
+1732576872621315011,Halter-detail long-sleeve top,Womenswear,0.0,0,3809,225,430,17,0,0,0,0,2,0,3379,208,0,0,17,0,4,3,Give more airtime
+1732092149795754452,Fitted knit 2-pc set (semi-sheer),Womenswear,0.0,0,5477,84,4200,32,0,0,0,0,5,0,1277,52,0,0,0,0,3,1,Give more airtime
+1731043370311979311,Fitted sports jumpsuit,Sports & Outdoor,0.0,0,4537,121,4110,119,0,0,9,0,5,1,427,2,0,0,1,0,6,0,Swap out

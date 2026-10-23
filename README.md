@@ -1,6 +1,8 @@
 # misssocial_clothing · TikTok Shop LIVE review
 
-Three-week review of TikTok Shop LIVE performance (Sep 24 – Oct 13, 2026): GMV by session, best-selling products, products with high impressions but few sales, and viewer vs buyer profile.
+What's selling and what to sell next on TikTok Shop LIVE, based on Oct 14–23, 2026 compared with Oct 1–13. Each product is placed in one group: Push now, Give more airtime, Fading, Swap out or Hold.
+
+The earlier Sep 24 – Oct 13 report is in `archive/sep24-oct13/`.
 
 Open `index.html` in a browser, or enable GitHub Pages on this repo.
 
@@ -8,11 +10,7 @@ Open `index.html` in a browser, or enable GitHub Pages on this repo.
 
 | File | Contents |
 |---|---|
-| `data/sessions.csv` | One row per LIVE session: GMV, items sold, views, impressions, rates |
-| `data/products.csv` | Every product with sales, totalled across sessions |
-| `data/high_impr_low_sales.csv` | High-impression products that sold 4 or fewer items |
-| `data/audience.csv` | Viewer and buyer gender, age and follower status |
-| `data/follower_gmv.csv` | GMV by follower status |
-| `data/states.csv` | Top states for viewers and buyers (top 5 per session, weighted) |
+| `data/products.csv` | Every product with impressions, clicks, sales, GMV and add-to-cart for each period, plus its group |
+| `images/<product_id>.jpg` | Product thumbnails |
 
-Source: TikTok Shop LIVE Dashboard and LIVE history (attributed metrics).
+Source: TikTok Shop LIVE Dashboard product lists (attributed metrics), checked against the Creator LIVE Performance export.
